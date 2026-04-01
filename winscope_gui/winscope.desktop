@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=winscope
+Comment=to use winscope
+Exec=/usr/bin/winscope
+Icon=/usr/share/winscope/winscope.svg
+Terminal=false
+Categories=Utility;
