@@ -1,3 +1,7 @@
+<img width="450" height="500" alt="图片" src="https://github.com/user-attachments/assets/19e08a8b-6fbc-4af8-8d5d-5ed923a9aa93" />
+
+
+
 ###优化winscope的启动方式---当前在ubuntu下运行
 
 ##### 1. 运行install.sh
